@@ -6,7 +6,7 @@ vue based frontend for core-pool
 
 ```bash
 # clone the repo
-git clone https://github.com/etclabscore/vue-core-pool.git
+git clone https://github.com/angelolisa26/core-pool-interface.git
 cd vue-core-pool
 
 # configure
